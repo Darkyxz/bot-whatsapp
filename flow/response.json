@@ -124,12 +124,12 @@
         "replyMessage":[
             "Perfecto, te voy a pasar la lista ",
             "de los servicios 🙂🤖 \n\n",
-            "*Formateo* Basico (Pago) \n",
-            "*Baños_quimico* Basico (Gratis) \n",
-            "*Pantallas* Basico (Pago) \n",
-            "*Flex_Carga* Basico (Pago) \n",
-            "*Modulos* Basico (Pago) \n\n",
-            "Escribe la palabra del tema que te interese \n"
+            "*Formateo* (25-35) \n",
+            "*Baños quimico*  (10-15) \n",
+            "*Pantallas*  (20-30) \n",
+            "*Flex de Carga*  (18-35) \n",
+            "*Modulos*  (25-45) \n\n",
+            "Escribe la palabra del servicio que te interese \n"
         ],
         "media":"https://i.giphy.com/media/5J5gN0WUk0VToHaK2p/giphy-downsized.gif",
         "trigger":null
