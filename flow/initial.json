@@ -19,34 +19,40 @@
     },
     {
         "keywords":  [
-            "cursos",
+            "servicios",
             "info",
-            "curso"        ],
+            "repuestos"        ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "formateo"
         ],
         "key": "STEP_2_1"
     },
     {
         "keywords":  [
-            "node"
+            "baño quimico"
         ],
         "key": "STEP_2_2"
     },
     {
         "keywords":  [
-            "ngrx"
+            "pantallas"
         ],
         "key": "STEP_2_3"
     },
     {
         "keywords":  [
-            "aws"
+            "flex"
         ],
         "key": "STEP_2_4"
+    },
+    {
+        "keywords":  [
+            "modulos"
+        ],
+        "key": "STEP_2_5"
     },
     {
         "keywords":  [
